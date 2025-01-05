@@ -33,6 +33,7 @@ const login = async (req, res) => {
         console.error(error)
     }
 }
+
 const logout = async (req, res) => {
     try {
 
